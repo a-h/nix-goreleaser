@@ -1,4 +1,4 @@
-# Flake for agg
+# Flake for goreleaser
 
 # Running - locally
 
